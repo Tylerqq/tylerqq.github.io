@@ -1,0 +1,76 @@
+Uri: http://flake1337.xyz/
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\index.htm
+Content Type: text/html
+
+Uri: http://flake1337.xyz/1.ico
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\1.ico
+Content Type: image/x-icon
+
+Uri: http://flake1337.xyz/css/style.css
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\css\style.css
+Content Type: text/css
+
+Uri: http://flake1337.xyz/info.html
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\info.htm
+Content Type: text/html
+
+Uri: http://flake1337.xyz/js/skel.min.js
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\js\skel.min.js
+Content Type: application/javascript
+
+Uri: http://flake1337.xyz/js/init.js
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\js\init.js
+Content Type: application/javascript
+
+Uri: http://flake1337.xyz/vid/6.mp4
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\vid\6.mp4
+Content Type: video/mp4
+
+Uri: http://flake1337.xyz/css/font-awesome.min.css
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://flake1337.xyz/css/bootstrap.min.css
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://flake1337.xyz/css/void-model.css
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\css\void-model.css
+Content Type: text/css
+
+Uri: http://flake1337.xyz/css/ionicons.min.css
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\css\ionicons.min.css
+Content Type: text/css
+
+Uri: http://flake1337.xyz/media/model/favicon.png
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\media\model\favicon.png
+Content Type: image/png
+
+Uri: http://flake1337.xyz/media/model/intro.png
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\media\model\intro.png
+Content Type: image/png
+
+Uri: http://flake1337.xyz/media/model/2.png
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\media\model\2.png
+Content Type: image/png
+
+Uri: http://flake1337.xyz/js/jquery-3.1.1.min.js
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\js\jquery-3.1.1.min.js
+Content Type: application/javascript
+
+Uri: http://flake1337.xyz/js/bootstrap.min.js
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://flake1337.xyz/js/plugins/parallax.hover.js
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\js\plugins\parallax.hover.js
+Content Type: application/javascript
+
+Uri: http://flake1337.xyz/js/plugins/jquery.fullPage.min.js
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\js\plugins\jquery.fullPage.min.js
+Content Type: application/javascript
+
+Uri: http://flake1337.xyz/js/void.js
+File Name: C:\Users\Администратор\Desktop\flake1337.xyz\js\void.js
+Content Type: application/javascript
+
